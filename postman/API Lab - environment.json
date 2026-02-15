@@ -1,0 +1,28 @@
+{
+	"id": "77f51936-4dba-474b-96b1-a76ca90e5643",
+	"name": "API Lab - Local",
+	"values": [
+		{
+			"key": "baseURL",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "readerToken",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "writerToken",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"color": null,
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2026-02-15T00:47:49.602Z",
+	"_postman_exported_using": "Postman/11.84.5"
+}
