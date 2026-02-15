@@ -1,5 +1,5 @@
 {
-	"id": "77f51936-4dba-474b-96b1-a76ca90e5643",
+	"id": "2a9f8e0b-51c8-4fd3-8b1a-645619541ee1",
 	"name": "API Lab - Local",
 	"values": [
 		{
@@ -19,10 +19,34 @@
 			"value": "",
 			"type": "default",
 			"enabled": true
+		},
+		{
+			"key": "newUserName",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "newUserEmail",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "userId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "updatedName",
+			"value": "",
+			"type": "any",
+			"enabled": true
 		}
 	],
-	"color": null,
+	"color": 240,
 	"_postman_variable_scope": "environment",
-	"_postman_exported_at": "2026-02-15T00:47:49.602Z",
+	"_postman_exported_at": "2026-02-15T11:26:29.733Z",
 	"_postman_exported_using": "Postman/11.84.5"
 }
