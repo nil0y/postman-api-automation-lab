@@ -61,24 +61,6 @@ Validate the `/users` endpoint exposed via PostgREST with a structured automatio
 
 ---
 
-## Project Structure
-
-postman-api-automation-lab/
-│
-├── postman/
-│ ├── user-api-collection.json
-│ └── api-lab-environment.json
-│
-├── docs/
-│ ├── auth-matrix.md
-│ ├── edge-cases.md
-│
-├── screenshots/
-│
-└── README.md
-
----
-
 ## How to Run
 
 1. Import the collection into Postman.
